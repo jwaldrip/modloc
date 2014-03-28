@@ -1,5 +1,13 @@
 # Modloc
 
+[![Version](http://allthebadges.io/jwaldrip/modloc/badge_fury.png)](http://allthebadges.io/jwaldrip/modloc/badge_fury)
+[![Dependencies](http://allthebadges.io/jwaldrip/modloc/gemnasium.png)](http://allthebadges.io/jwaldrip/modloc/gemnasium)
+[![Build Status](http://allthebadges.io/jwaldrip/modloc/travis.png)](http://allthebadges.io/jwaldrip/modloc/travis)
+[![Coverage](http://allthebadges.io/jwaldrip/modloc/coveralls.png)](http://allthebadges.io/jwaldrip/modloc/coveralls)
+[![Code Climate](http://allthebadges.io/jwaldrip/modloc/code_climate.png)](http://allthebadges.io/jwaldrip/modloc/code_climate)
+
+--
+
 Source locations for modules and classes in your app.
 
 ## Installation

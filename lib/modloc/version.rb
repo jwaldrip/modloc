@@ -1,3 +1,5 @@
+# Modloc
 module Modloc
-  VERSION = "0.0.1"
+  # Latest Version
+  VERSION = '1.0.0'
 end
