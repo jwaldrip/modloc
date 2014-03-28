@@ -5,6 +5,7 @@
 [![Build Status](http://allthebadges.io/jwaldrip/modloc/travis.png)](http://allthebadges.io/jwaldrip/modloc/travis)
 [![Coverage](http://allthebadges.io/jwaldrip/modloc/coveralls.png)](http://allthebadges.io/jwaldrip/modloc/coveralls)
 [![Code Climate](http://allthebadges.io/jwaldrip/modloc/code_climate.png)](http://allthebadges.io/jwaldrip/modloc/code_climate)
+[![Inline docs](http://inch-pages.github.io/github/jwaldrip/modloc.png)](http://inch-pages.github.io/github/jwaldrip/modloc)
 
 --
 
