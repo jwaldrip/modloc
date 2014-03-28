@@ -10,6 +10,8 @@
 
 Source locations for modules and classes in your app.
 
+**Works in Ruby >= 2.0.0**
+
 ## Installation
 
 Add this line to your application's Gemfile:
